@@ -1,4 +1,4 @@
-Peregrinate
+# Peregrinate
 
 **Version 1.0.0
 
@@ -42,7 +42,7 @@ Build using MVC format, users reach a landing page and then develop a profile, w
 
 ## Acknowledgments
 
-Many thanks to our awesome instructor and TA's.
+Many thanks to our awesome Instructor and TA's.
 
 ## Deployed App
 * [Peregrinate](https://peregrinate.herokuapp.com) - App
